@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-service" />
+        <module name="blog-service" />
+        <module name="chapter4-5" />
+        <module name="common" />
+        <module name="config-server" />
+        <module name="eureka-client (1)" />
+        <module name="eureka-client (2)" />
+        <module name="eureka-client (3)" />
+        <module name="eureka-client (4)" />
+        <module name="eureka-client (5)" />
+        <module name="eureka-client (6)" />
+        <module name="eureka-client (7)" />
+        <module name="eureka-client (8)" />
+        <module name="eureka-client (9)" />
+        <module name="eureka-server" />
+        <module name="eureka-server (1)" />
+        <module name="eureka-server (10)" />
+        <module name="eureka-server (2)" />
+        <module name="eureka-server (3)" />
+        <module name="eureka-server (4)" />
+        <module name="eureka-server (5)" />
+        <module name="eureka-server (6)" />
+        <module name="eureka-server (7)" />
+        <module name="eureka-server (8)" />
+        <module name="eureka-server (9)" />
+        <module name="gateway-service" />
+        <module name="hello-world" />
+        <module name="monitor-service" />
+        <module name="service-auth" />
+        <module name="service-hi" />
+        <module name="springboot-first-application" />
+        <module name="springboot-redis" />
+        <module name="springboot-security" />
+        <module name="uaa-service" />
+        <module name="user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-service" target="1.8" />
+      <module name="blog-service" target="1.8" />
+      <module name="chapter10" target="1.8" />
+      <module name="chapter10 (1)" target="1.8" />
+      <module name="chapter10 (2)" target="1.8" />
+      <module name="chapter10 (3)" target="1.8" />
+      <module name="chapter11" target="1.8" />
+      <module name="chapter12" target="1.8" />
+      <module name="chapter12 (1)" target="1.8" />
+      <module name="chapter12 (2)" target="1.8" />
+      <module name="chapter4-5" target="1.8" />
+      <module name="chapter5-2 (1)" target="1.8" />
+      <module name="chapter5-2 (2)" target="1.8" />
+      <module name="chapter5-2 (3)" target="1.8" />
+      <module name="chapter5-2 (4)" target="1.8" />
+      <module name="chapter5-2 (5)" target="1.8" />
+      <module name="chapter5-2 (6)" target="1.8" />
+      <module name="chapter5-2 (7)" target="1.8" />
+      <module name="chapter5-2 (8)" target="1.8" />
+      <module name="chapter5-2 (9)" target="1.8" />
+      <module name="cloud-oauth2-jwt" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-client (1)" target="1.8" />
+      <module name="eureka-client (2)" target="1.8" />
+      <module name="eureka-client (3)" target="1.8" />
+      <module name="eureka-client (4)" target="1.8" />
+      <module name="eureka-client (5)" target="1.8" />
+      <module name="eureka-client (6)" target="1.8" />
+      <module name="eureka-client (7)" target="1.8" />
+      <module name="eureka-client (8)" target="1.8" />
+      <module name="eureka-client (9)" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server (10)" target="1.8" />
+      <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-server (3)" target="1.8" />
+      <module name="eureka-server (4)" target="1.8" />
+      <module name="eureka-server (5)" target="1.8" />
+      <module name="eureka-server (6)" target="1.8" />
+      <module name="eureka-server (7)" target="1.8" />
+      <module name="eureka-server (8)" target="1.8" />
+      <module name="eureka-server (9)" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="hello-world" target="1.8" />
+      <module name="monitor-service" target="1.8" />
+      <module name="service-auth" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="sleuth" target="1.8" />
+      <module name="sleuth (1)" target="1.8" />
+      <module name="sleuth (2)" target="1.8" />
+      <module name="sleuth (3)" target="1.8" />
+      <module name="sleuth (4)" target="1.8" />
+      <module name="spring-cloud-auth" target="1.8" />
+      <module name="springboot-first-application" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
+      <module name="springboot-security" target="1.8" />
+      <module name="SpringCloudInAction" target="1.8" />
+      <module name="uaa-service" target="1.8" />
+      <module name="user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

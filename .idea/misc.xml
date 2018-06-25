@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter10/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-4/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11-3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11-5/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11-6-1/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11-6-2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11-7/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12-2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12-3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter16/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-5/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-6/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5-2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5-5/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6-3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6-4/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8-5/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8-7/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8-8/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

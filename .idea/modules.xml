@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter16/SpringCloudInAction.iml" filepath="$PROJECT_DIR$/chapter16/SpringCloudInAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/admin-service/admin-service.iml" filepath="$PROJECT_DIR$/chapter16/admin-service/admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/blog-service/blog-service.iml" filepath="$PROJECT_DIR$/chapter16/blog-service/blog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/chapter10/chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-2/chapter10 (1).iml" filepath="$PROJECT_DIR$/chapter10-2/chapter10 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-3/chapter10 (2).iml" filepath="$PROJECT_DIR$/chapter10-3/chapter10 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-4/chapter10 (3).iml" filepath="$PROJECT_DIR$/chapter10-4/chapter10 (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/chapter11.iml" filepath="$PROJECT_DIR$/chapter11/chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/chapter12/chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12-2/chapter12 (1).iml" filepath="$PROJECT_DIR$/chapter12-2/chapter12 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12-3/chapter12 (2).iml" filepath="$PROJECT_DIR$/chapter12-3/chapter12 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4-5/chapter4-5.iml" filepath="$PROJECT_DIR$/chapter4-5/chapter4-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-2/chapter5-2 (1).iml" filepath="$PROJECT_DIR$/chapter5-2/chapter5-2 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-5/chapter5-2 (2).iml" filepath="$PROJECT_DIR$/chapter5-5/chapter5-2 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-3/chapter5-2 (3).iml" filepath="$PROJECT_DIR$/chapter6-3/chapter5-2 (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-4/chapter5-2 (4).iml" filepath="$PROJECT_DIR$/chapter6-4/chapter5-2 (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/chapter5-2 (5).iml" filepath="$PROJECT_DIR$/chapter7/chapter5-2 (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-5/chapter5-2 (6).iml" filepath="$PROJECT_DIR$/chapter8-5/chapter5-2 (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-7/chapter5-2 (7).iml" filepath="$PROJECT_DIR$/chapter8-7/chapter5-2 (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-8/chapter5-2 (8).iml" filepath="$PROJECT_DIR$/chapter8-8/chapter5-2 (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/chapter5-2 (9).iml" filepath="$PROJECT_DIR$/chapter9/chapter5-2 (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/cloud-oauth2-jwt.iml" filepath="$PROJECT_DIR$/chapter15/cloud-oauth2-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/common/common.iml" filepath="$PROJECT_DIR$/chapter16/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/config-server/config-server.iml" filepath="$PROJECT_DIR$/chapter16/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-2/eureka-client/eureka-client (1).iml" filepath="$PROJECT_DIR$/chapter5-2/eureka-client/eureka-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-5/eureka-client/eureka-client (2).iml" filepath="$PROJECT_DIR$/chapter5-5/eureka-client/eureka-client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-3/eureka-client/eureka-client (3).iml" filepath="$PROJECT_DIR$/chapter6-3/eureka-client/eureka-client (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-4/eureka-client/eureka-client (4).iml" filepath="$PROJECT_DIR$/chapter6-4/eureka-client/eureka-client (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/eureka-client/eureka-client (5).iml" filepath="$PROJECT_DIR$/chapter7/eureka-client/eureka-client (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-5/eureka-client/eureka-client (6).iml" filepath="$PROJECT_DIR$/chapter8-5/eureka-client/eureka-client (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-7/eureka-client/eureka-client (7).iml" filepath="$PROJECT_DIR$/chapter8-7/eureka-client/eureka-client (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-8/eureka-client/eureka-client (8).iml" filepath="$PROJECT_DIR$/chapter8-8/eureka-client/eureka-client (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/eureka-client/eureka-client (9).iml" filepath="$PROJECT_DIR$/chapter9/eureka-client/eureka-client (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter14/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/chapter16/eureka-server/eureka-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/eureka-server/eureka-server (10).iml" filepath="$PROJECT_DIR$/chapter9/eureka-server/eureka-server (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-2/eureka-server/eureka-server (2).iml" filepath="$PROJECT_DIR$/chapter5-2/eureka-server/eureka-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-5/eureka-server/eureka-server (3).iml" filepath="$PROJECT_DIR$/chapter5-5/eureka-server/eureka-server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-3/eureka-server/eureka-server (4).iml" filepath="$PROJECT_DIR$/chapter6-3/eureka-server/eureka-server (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-4/eureka-server/eureka-server (5).iml" filepath="$PROJECT_DIR$/chapter6-4/eureka-server/eureka-server (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/eureka-server/eureka-server (6).iml" filepath="$PROJECT_DIR$/chapter7/eureka-server/eureka-server (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-5/eureka-server/eureka-server (7).iml" filepath="$PROJECT_DIR$/chapter8-5/eureka-server/eureka-server (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-7/eureka-server/eureka-server (8).iml" filepath="$PROJECT_DIR$/chapter8-7/eureka-server/eureka-server (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-8/eureka-server/eureka-server (9).iml" filepath="$PROJECT_DIR$/chapter8-8/eureka-server/eureka-server (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/chapter16/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/hello-world.iml" filepath="$PROJECT_DIR$/chapter3/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/monitor-service/monitor-service.iml" filepath="$PROJECT_DIR$/chapter16/monitor-service/monitor-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/service-auth/service-auth.iml" filepath="$PROJECT_DIR$/chapter14/service-auth/service-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/chapter14/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11-6-1/sleuth.iml" filepath="$PROJECT_DIR$/chapter11-6-1/sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11-3/sleuth (1).iml" filepath="$PROJECT_DIR$/chapter11-3/sleuth (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11-5/sleuth (2).iml" filepath="$PROJECT_DIR$/chapter11-5/sleuth (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11-6-2/sleuth (3).iml" filepath="$PROJECT_DIR$/chapter11-6-2/sleuth (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11-7/sleuth (4).iml" filepath="$PROJECT_DIR$/chapter11-7/sleuth (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/spring-cloud-auth.iml" filepath="$PROJECT_DIR$/chapter14/spring-cloud-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4-2/springboot-first-application.iml" filepath="$PROJECT_DIR$/chapter4-2/springboot-first-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4-6/springboot-redis.iml" filepath="$PROJECT_DIR$/chapter4-6/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/springboot-security.iml" filepath="$PROJECT_DIR$/chapter13/springboot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-book.iml" filepath="$PROJECT_DIR$/.idea/springcloud-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/uaa-service/uaa-service.iml" filepath="$PROJECT_DIR$/chapter16/uaa-service/uaa-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/user-service/user-service.iml" filepath="$PROJECT_DIR$/chapter16/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

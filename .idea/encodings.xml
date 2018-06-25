@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chapter10" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter10-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter10-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter10-4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11-5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11-6-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11-6-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11-7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter12" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter12-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter12-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter13" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter14" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter14/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter14/service-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter14/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter15" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/admin-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/blog-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/gateway-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/monitor-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/uaa-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter16/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-2/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-2/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-5/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-5/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-3/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-3/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-4/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-4/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-5/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-5/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-7/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-7/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-8/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-8/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9/eureka-server" charset="UTF-8" />
+  </component>
+</project>
